@@ -1,0 +1,54 @@
+@charset "UTF-8";
+#wrapper{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+#div1{
+    margin-top: -23px;
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+
+#titolo{
+    margin-left: 2%;
+    font-family: "Playfair Display", serif;
+}
+
+#immaginelogin{
+    width: 100%;
+}
+
+
+ul{
+    list-style-type: none;
+    color: white;
+}
+
+li{
+    display: inline;
+    margin-right: 16px;
+}
+
+#a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: blue;
+}
+
+#login{
+    color: navy;
+}
+
+#div2{
+    margin-top: -1%;
+    margin-bottom: 100px;
+    height: 54vh;
+}
+
+#form{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
